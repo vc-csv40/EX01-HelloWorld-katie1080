@@ -7,11 +7,12 @@ package edu.vcccd.vc.csv40;
  * Statement of code ownership: I hereby state that I have written all of this
  * code and I have not copied this code from any other person or source.
  *
- * @author [CHANGE THIS TO YOUR INFORMATION]
+ * @Katie Woodson
  */
-public class HelloWorld {
-
-public static void main(String[] args) {
-        System.out.println("Hello, World!");
+public class HelloWorld
+{
+        public static void main(String[] args)
+        {
+                System.out.println("Hello, World!");
         }
-        }
+}
